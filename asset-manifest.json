@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Coffee/static/css/main.abcd943f.css",
-    "main.js": "/Coffee/static/js/main.c16ebd52.js",
+    "main.js": "/Coffee/static/js/main.61428078.js",
     "static/media/mask_group.jpg": "/Coffee/static/media/mask_group.d243429cd62c72cc802f.jpg",
     "static/media/coffee-pleasure-bg.png": "/Coffee/static/media/coffee-pleasure-bg.6d117f0a8363c5f4f9e1.png",
     "static/media/coffee-shop-bg.png": "/Coffee/static/media/coffee-shop-bg.7b43b8137ef2158f3b43.png",
@@ -16,10 +16,10 @@
     "static/media/beans_logo.svg": "/Coffee/static/media/beans_logo.023b976cf584c92cb61afe5c82a0d35f.svg",
     "index.html": "/Coffee/index.html",
     "main.abcd943f.css.map": "/Coffee/static/css/main.abcd943f.css.map",
-    "main.c16ebd52.js.map": "/Coffee/static/js/main.c16ebd52.js.map"
+    "main.61428078.js.map": "/Coffee/static/js/main.61428078.js.map"
   },
   "entrypoints": [
     "static/css/main.abcd943f.css",
-    "static/js/main.c16ebd52.js"
+    "static/js/main.61428078.js"
   ]
 }
