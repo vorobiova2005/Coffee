@@ -26,3 +26,15 @@
      font-size: 20px;
 }
 
+@media (max-width: 768px) {
+    .item-wrapper{
+        flex-direction: column;
+    }
+    .item-details{
+        width: 80%;
+        margin: 0 auto;
+    }
+    .item-details p{
+        text-align: center;
+    }
+}
