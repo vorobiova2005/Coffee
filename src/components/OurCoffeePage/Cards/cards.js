@@ -28,7 +28,7 @@ const Cards = ({ showFilter = true }) => { // Додаємо пропс з defau
         <div className="products-grid other-grid">
           {filteredProducts.map((product, index) => (
             <div key={index} className="product-card our-coffee-cards">
-              <Link to={`/coffee-item/${product.id}`} className="product-card-link">
+              <Link to={`/Coffee/coffee-item/${product.id}`} className="product-card-link">
                 <div className="product-image-container">
                   <img 
                     src={product.image} 

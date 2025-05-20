@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <header className="hero our-coffee">
       <div className="header-container">
-        <Link to="/" 
+        <Link to="/Coffee/" 
         className="logo-link">
           <img src={logo} alt="Coffee House Logo" className="logo" />
         </Link>
@@ -16,17 +16,17 @@ const Header = () => {
         <nav className="nav-menu">
           <ul className="nav-list">
             <li className="nav-item">
-              <Link to="/" className="nav-link">
+              <Link to="/Coffee/" className="nav-link">
                 Coffee house
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/our-coffee" className="nav-link">
+              <Link to="/Coffee/our-coffee" className="nav-link">
                 Our coffee
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/for-your-pleasure" className="nav-link">
+              <Link to="/Coffee/for-your-pleasure" className="nav-link">
                 For your pleasure
               </Link>
             </li>

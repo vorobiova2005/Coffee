@@ -14,7 +14,7 @@ const OurBest = () => {
         <div className="products-grid">
           {products.map((product, index) => (
             <div key={index} className="product-card">
-              <Link to={`/coffee-item/${product.id}`} className="product-card-link">
+              <Link to={`/Coffee/coffee-item/${product.id}`} className="product-card-link">
               <div className="product-image-container">
                 <img 
                   src={product.image} 

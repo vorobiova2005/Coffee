@@ -10,24 +10,24 @@ const Footer = () => {
   return (
  <footer className="footer">
       <div className="footer-container">
-        <Link to="/" className="footer-logo-link">
+        <Link to="/Coffee/" className="footer-logo-link">
           <img src={footer_logo} alt="Coffee House Logo" className="footer-logo" />
         </Link>
 
         <nav className="footer-menu">
           <ul className="footer-list">
             <li className="footer-item">
-              <Link to="/" className="footer-nav-link"> 
+              <Link to="/Coffee/" className="footer-nav-link"> 
                 Coffee house
               </Link>
             </li>
             <li className="footer-item">
-              <Link to="/our-coffee" className="footer-nav-link">
+              <Link to="/Coffee/our-coffee" className="footer-nav-link">
                 Our coffee
               </Link>
             </li>
             <li className="footer-item">
-              <Link to="/for-your-pleasure" className="footer-nav-link">
+              <Link to="/Coffee/for-your-pleasure" className="footer-nav-link">
                 For your pleasure
               </Link>
             </li>

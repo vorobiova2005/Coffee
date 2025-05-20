@@ -28,7 +28,7 @@ function CoffeeItemPage() {
   return (
     <div className="HomePage">
       <Header />
-       <Link to="/our-coffee"><div className='back-btn'><button> <i class="fa-solid fa-arrow-left"></i> Back</button></div></Link>
+       <Link to="/Coffee/our-coffee"><div className='back-btn'><button> <i class="fa-solid fa-arrow-left"></i> Back</button></div></Link>
       <div className="item-wrapper">
       <div className="item-big-img">
          <img src={BigItemImg} alt={product.alt} />
