@@ -4,5 +4,18 @@
     justify-content: center;
     gap: 5%;
 }
+.our-beans-item{
+    width: 30%;
+}
+
+@media (max-width: 768px) {
+   .wrapper{
+        flex-direction: column;
+   }
+   .our-beans-item{
+        width: 80%;
+        margin: 0 auto;
+   }
+}
 
 

@@ -117,6 +117,7 @@
   .header-container {
     flex-direction: column;
     padding: 10px;
+    margin-left: 5%;
   }
 
   .logo {
@@ -128,4 +129,7 @@
     flex-wrap: wrap;
     justify-content: center;
   }
+
+  
 }
+

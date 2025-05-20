@@ -36,3 +36,14 @@
     border-radius: 5px;
     cursor: pointer;
 }
+
+@media (max-width: 768px) {
+    .filter{
+        flex-direction: column;
+        align-items: center;
+      
+    }
+    .filter-btn, .looking-block{
+        margin-top: 5%;
+    }
+}
